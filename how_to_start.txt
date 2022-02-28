@@ -1,3 +1,0 @@
-1. docker load -i cbc_challenge.tar
-2. docker run -p6000:6000 cbc_challenge
-3. jetzt sollte der docker auf port 6000 laufen :) 
